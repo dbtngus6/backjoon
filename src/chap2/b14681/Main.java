@@ -1,4 +1,4 @@
-package chap2.b1330.b14681;
+package chap2.b14681;
 
 import java.util.Scanner;
 
